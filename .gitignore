@@ -1,0 +1,12 @@
+# no vim swapfiles plz
+*.swp
+
+# no object files or binaries
+*.o
+*.elf
+*.DS_Store
+
+Debug/
+.config/
+.launches/
+.xdchelp
